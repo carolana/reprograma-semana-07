@@ -2,7 +2,7 @@
 
 Essa semana foi mais tranquila, porém sou suspeita pra falar, pois quando o assunto é API, eu tô sempre dentro.
 
-![gif "shy"](img/crazy.gif)
+![gif "shy"](img/shy.gif)
 
 Como o título já indica, o assunto dessa semana foi o método GET, mas vimos um pouco mais sobre:
 
@@ -39,7 +39,7 @@ A gente usou um framework para Node.js chamado Express, que fornece recursos min
 Ufa!!! 
 Eu só sei que foi lindo demais fazer meu "servidorzinho" e, é claro, que me sinto muito orgulhosa por poder terminar mais uma semana de {reprograma} com o projeto finalizado.
 
-![gif "happy"](img/crazy.gif)
+![gif "happy"](img/happy.gif)
 
 
 
