@@ -10,7 +10,6 @@ Como o título já indica, o assunto dessa semana foi o método GET, mas vimos u
 	- Interpretador JavaScript que não precisa de um navegador
 
 ### Gerenciadores de pacotes (npm):
-```javascript
 	- Ele permite instalar, desinstalar e atualizar dependências em uma aplicação por meio de uma 
 	simples instrução na linha de comando.
 	
@@ -18,7 +17,7 @@ Como o título já indica, o assunto dessa semana foi o método GET, mas vimos u
 		- npm init
 		- npm start
 		- npm install
-```
+
 		
 ### Dependêcias:
 	- São pacotes que usamos dentro do nossos projetos que dependem de outros pacotes e assim sucessivamente
