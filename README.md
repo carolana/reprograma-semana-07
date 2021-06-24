@@ -15,13 +15,10 @@ Como o título já indica, o assunto dessa semana foi o método GET, mas vimos u
 		- npm init
 		- npm start
 		- npm install
-
 ### Dependêcias:
 	- São pacotes que usamos dentro do nossos projetos que dependem de outros pacotes e assim sucessivamente
-
 ### Package.json:
 	- Um package.json é um arquivo JSON que existe na raiz de um projeto Javascript/ Node. Ele contém metadados relevantes para o projeto e é usado para gerenciar as dependências do projeto, scripts, versão e muito mais.
-
 
 ## Criando meu primeiro servidor
 
@@ -40,6 +37,3 @@ Ufa!!!
 Eu só sei que foi lindo demais fazer meu "servidorzinho" e, é claro, que me sinto muito orgulhosa por poder terminar mais uma semana de {reprograma} com o projeto finalizado.
 
 ![gif "happy"](img/happy.gif)
-
-
-
