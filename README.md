@@ -10,17 +10,21 @@ Como o título já indica, o assunto dessa semana foi o método GET, mas vimos u
 	- Interpretador JavaScript que não precisa de um navegador
 
 ### Gerenciadores de pacotes (npm):
-	- Ele permite instalar, desinstalar e atualizar dependências em uma aplicação por meio de uma simples instrução na linha de comando. 
+	- Ele permite instalar, desinstalar e atualizar dependências em uma aplicação por meio de uma simples
+	instrução na linha de comando. 
+
 	Alguns comandos principais foram vistos, tais como:
 		- npm init
 		- npm start
 		- npm install
-
+	
 ### Dependêcias:
 	- São pacotes que usamos dentro do nossos projetos que dependem de outros pacotes e assim sucessivamente
 
 ### Package.json:
-	- Um package.json é um arquivo JSON que existe na raiz de um projeto Javascript/ Node. Ele contém metadados relevantes para o projeto e é usado para gerenciar as dependências do projeto, scripts, versão e muito mais.
+	- Um package.json é um arquivo JSON que existe na raiz de um projeto Javascript/ Node. 
+	Ele contém metadados relevantes para o projeto e é usado para gerenciar as dependências do projeto,
+	scripts, versão e muito mais.
 
 
 ## Criando meu primeiro servidor
