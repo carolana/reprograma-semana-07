@@ -10,22 +10,38 @@ Como o título já indica, o assunto dessa semana foi o método GET, mas vimos u
 	- Interpretador JavaScript que não precisa de um navegador
 
 ### Gerenciadores de pacotes (npm):
+<<<<<<< HEAD
 	- Ele permite instalar, desinstalar e atualizar dependências em uma aplicação por meio de uma simples
 	instrução na linha de comando. 
 
+=======
+	- Ele permite instalar, desinstalar e atualizar dependências em uma aplicação por meio de uma 
+	simples instrução na linha de comando.
+	
+>>>>>>> 4e9b0a8cd61cbdc0705139ae2fa5fb7e20f36d24
 	Alguns comandos principais foram vistos, tais como:
 		- npm init
 		- npm start
 		- npm install
+<<<<<<< HEAD
 	
+=======
+
+		
+>>>>>>> 4e9b0a8cd61cbdc0705139ae2fa5fb7e20f36d24
 ### Dependêcias:
 	- São pacotes que usamos dentro do nossos projetos que dependem de outros pacotes e assim sucessivamente
-
+	
 ### Package.json:
+<<<<<<< HEAD
 	- Um package.json é um arquivo JSON que existe na raiz de um projeto Javascript/ Node. 
 	Ele contém metadados relevantes para o projeto e é usado para gerenciar as dependências do projeto,
 	scripts, versão e muito mais.
 
+=======
+	- Um package.json é um arquivo JSON que existe na raiz de um projeto Javascript/ Node. Ele contém 
+	metadados relevantes para o projeto e é usado para gerenciar as dependências do projeto, scripts, versão e muito mais.
+>>>>>>> 4e9b0a8cd61cbdc0705139ae2fa5fb7e20f36d24
 
 ## Criando meu primeiro servidor
 
@@ -41,9 +57,7 @@ A gente usou um framework para Node.js chamado Express, que fornece recursos min
 	- Utilizamos os Path Params e Query Params
 
 Ufa!!! 
-Eu só sei que foi lindo demais fazer meu "servidorzinho" e, é claro, que me sinto muito orgulhosa por poder terminar mais uma semana de {reprograma} com o projeto finalizado.
+Eu só sei que foi lindo demais fazer meu "servidorzinho" e, é claro, que me sinto muito orgulhosa por poder
+terminar mais uma semana de {reprograma} com o projeto finalizado.
 
 ![gif "happy"](img/happy.gif)
-
-
-
